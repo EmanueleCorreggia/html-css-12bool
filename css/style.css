@@ -1,0 +1,4 @@
+.container-Nested .col-6 [class*="col-"] {
+  border: 2px solid white;
+  background-color: #f07f80;
+}

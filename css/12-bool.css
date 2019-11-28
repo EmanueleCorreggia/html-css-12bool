@@ -3,14 +3,13 @@
   background-color: pink;
 }
 .debug .container {
-  /* border: 1px solid red; */
-  height: 300px;
+  height: 200px;
 }
 .debug .container [class*="col-"] {
   border: 1px solid black;
-  height: 300px;
+  height: 200px;
   text-align: center;
-  line-height: 300px;
+  line-height: 200px;
 }
 /* Framework */
 * {
@@ -102,6 +101,4 @@
 .offset-11 {
   margin-left: calc((100% / 12 ) * 11);
 }
-.offset-12 {
-  margin-left: calc((100% / 12 ) * 12);
-}
+/* /offset */
