@@ -1,4 +1,8 @@
-.container-Nested .col-6 [class*="col-"] {
+.container .col-6 [class*="col-"] {
   border: 2px solid white;
   background-color: #f07f80;
+  height: 100%;
+}
+.padding {
+  padding: 5px;
 }
